@@ -29,5 +29,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Screenshots ![Screenshot 2024-12-13 202208](https://github.com/user-attachments/assets/44539a61-436c-4d76-a8ba-442ec1172e84)
 ![Screenshot 2024-12-13 202153](https://github.com/user-attachments/assets/5724c9b8-06be-4649-b09f-750bd9d51c6e)
-![Screenshot 2024-12-13 202110](https://github.com/user-attachments/assets/ee3e7888-0c36-442e-a493-164b822c9520)
-## (Designing the client-side module.)
+![Screenshot 2024-12-13 202110](https://github.com/user-attachments/assets/ee3e7888-0c36-442e-a493-164b822c95
+![Screenshot 2024-12-17 163701](https://github.com/user-attachments/assets/e48b8244-f1c1-46dd-a906-05f40eb56ef1)
+
+## (Designing the cart).
+## Soon will add pictures
